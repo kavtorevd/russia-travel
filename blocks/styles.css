@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: InterVariable;
+  color: white;
+  background-color: #2a2c2f;
+  -webkit-font-smoothing: antialiased;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}

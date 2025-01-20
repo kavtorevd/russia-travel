@@ -1,0 +1,26 @@
+.lead {
+    margin: 56px auto 92px auto;
+    max-width: max-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .lead {
+        margin: 48px auto 92px auto;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+    .lead {
+        margin: 48px auto 88px auto;
+    }
+}
+
+@media (max-width: 320px) {
+    .lead {
+        margin: 48px auto 64px auto;
+    }
+}
